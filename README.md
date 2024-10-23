@@ -4,3 +4,4 @@
 <img src="4.jpg" alt="">
 <img src="con1.jpg" alt="">
 <img src="con2.jpg" alt="">
+<img src="major.png" alt="">
